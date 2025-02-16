@@ -46,7 +46,7 @@ When prompted, enter the full path of the folder you want to scan. The script wi
 
 ---
 
-# 📂 フォルダサイズスクレイパー
+# 📂 フォルダサイズスクレイパー（日本語版）
 
 **フォルダのサイズを計算し、ExcelファイルにエクスポートするシンプルなPythonツールです。**
 
